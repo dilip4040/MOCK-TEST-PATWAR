@@ -1,0 +1,15 @@
+workflows:
+  build_apk:
+    name: Build Patwari APK
+    max_build_duration: 10
+    environment:
+      flutter: stable
+    scripts:
+      - flutter pub get
+      - flutter build apk --release
+    artifacts:
+      - build/app/outputs/flutter-apk/app-release.apk
+    publishing:
+      email:
+        recipients:
+          - dilipjat40@gmail.com
