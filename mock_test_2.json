@@ -1,0 +1,90 @@
+[
+  {
+    "question": "पानी का रासायनिक सूत्र क्या है?",
+    "options": [
+      "H2O",
+      "O2",
+      "CO2",
+      "NaCl"
+    ],
+    "answer_index": 0,
+    "explanation": "पानी का रासायनिक सूत्र H2O होता है।"
+  },
+  {
+    "question": "कंप्यूटर का मस्तिष्क किसे कहते हैं?",
+    "options": [
+      "माउस",
+      "कीबोर्ड",
+      "CPU",
+      "RAM"
+    ],
+    "answer_index": 2,
+    "explanation": "CPU को कंप्यूटर का मस्तिष्क कहा जाता है।"
+  },
+  {
+    "question": "मानव शरीर में कुल कितनी हड्डियाँ होती हैं?",
+    "options": [
+      "200",
+      "206",
+      "210",
+      "212"
+    ],
+    "answer_index": 1,
+    "explanation": "वयस्क मानव शरीर में कुल 206 हड्डियाँ होती हैं।"
+  },
+  {
+    "question": "राजस्थान का सबसे बड़ा जिला कौन सा है?",
+    "options": [
+      "जयपुर",
+      "जैसलमेर",
+      "बीकानेर",
+      "बूंदी"
+    ],
+    "answer_index": 1,
+    "explanation": "क्षेत्रफल के अनुसार जैसलमेर राजस्थान का सबसे बड़ा जिला है।"
+  },
+  {
+    "question": "मेवाड़ की राजधानी क्या थी?",
+    "options": [
+      "उदयपुर",
+      "कोटा",
+      "जयपुर",
+      "बीकानेर"
+    ],
+    "answer_index": 0,
+    "explanation": "मेवाड़ की ऐतिहासिक राजधानी उदयपुर थी।"
+  },
+  {
+    "question": "2 और 3 का गुणनफल क्या है?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer_index": 1,
+    "explanation": "2 × 3 = 6"
+  },
+  {
+    "question": "CPU का पूरा नाम क्या है?",
+    "options": [
+      "Central Processing Unit",
+      "Control Panel Unit",
+      "Central Power Unit",
+      "Computer Process Utility"
+    ],
+    "answer_index": 0,
+    "explanation": "CPU का पूरा नाम Central Processing Unit है।"
+  },
+  {
+    "question": "20 का 25% कितना होता है?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer_index": 1,
+    "explanation": "20 × 25% = 5"
+  }
+]
