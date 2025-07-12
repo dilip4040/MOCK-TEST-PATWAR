@@ -1,5 +1,5 @@
 name: patwari_mock_test_app
 version: 1.0.0
-flutter:sdk: '^3.8.0'
+flutter:flutter pub get:
   assets:
     - assets/
