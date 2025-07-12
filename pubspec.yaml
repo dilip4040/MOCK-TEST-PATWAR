@@ -3,3 +3,5 @@ version: 1.0.0
 flutter:flutter pub get:
   assets:
     - assets/
+environment:
+  sdk: '^3.8.0'
